@@ -1,12 +1,12 @@
-Step 1 : Clone the project
+<p>Step 1 : Clone the project</p>
 Step 2 : Setup database details to .env.
 Step 3 : run "php artisan migrate:fresh --seed"
 Step 3 : once you completed it, you can jump on login/register page.
 default login details
- admin@email.com
- secret
- user@email.com
- secret
+admin@email.com
+secret
+user@email.com
+secret
 
 
 -----------
